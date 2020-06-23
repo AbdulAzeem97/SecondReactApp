@@ -1,8 +1,16 @@
 .box{
   height: 500px;
-  background-color: lightgray;
+  background-color:blue;
 }
 .dayLight{
   background-color: red;
 }
 
+.small{
+  height: 500px;
+  background-color:green;
+  font-style: italic;
+}
+.dayMorning{
+  background-color: yellow;
+}
